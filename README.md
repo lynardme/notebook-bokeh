@@ -1,1 +1,3 @@
-# notebook-bokeh
+# Notebook about Bokeh
+
+Visualization data with Bokeh
